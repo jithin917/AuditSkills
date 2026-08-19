@@ -9,6 +9,6 @@ This repository contains skills, scripts, and documentation for auditing workflo
 Clone the repository and explore the available skills and modules.
 
 ```bash
-git clone https://github.com/aryadevisreemoolam/AuditSkills.git
+git clone https://github.com/jithin917/AuditSkills.git
 cd AuditSkills
 ```
