@@ -1,0 +1,25 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and secrets
+.env
+.env.local
+*.key
+*.pem
+
+# Node / Python / Build artifacts
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
